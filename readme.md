@@ -49,8 +49,8 @@ Ikuti langkah-langkah ini untuk menjalankan project secara lokal:
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/NaufalAqil18/Tugas-7-main.git
+cd katalog_produk
 ```
 
 ### 2. Buat Virtual Environment
